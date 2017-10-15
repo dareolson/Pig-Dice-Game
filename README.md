@@ -1,6 +1,9 @@
 # Pig-Dice-Game
 A game using Javascript programming fundamentals for DOM manipulation.
 
+Play Game!
+https://dareolson.github.io/Pig-Dice-Game/
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
