@@ -2,7 +2,7 @@
 A game using Javascript programming fundamentals for DOM manipulation.
 
 Play Game!
-https://dareolson.github.io/Pig-Dice-Game/
+https://dareolson.github.io/pig-dice-game/
 
 GAME RULES:
 
